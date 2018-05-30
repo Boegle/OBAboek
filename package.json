@@ -1,0 +1,32 @@
+{
+	"name": "app",
+	"main": "app.js",
+	"version": "1.0.0",
+	"repository": {
+		"type": "git",
+		"url": "https://gitlab.com/detaiNL/detai-node-setup.git"
+	},
+	"license": "MIT",
+	"devDependencies": {
+		"babel-core": "^6.26.0",
+		"babel-preset-env": "^1.6.1",
+		"compression": "^1.7.2",
+		"express": "^4.16.3",
+		"gulp": "^3.9.1",
+		"gulp-babel": "^7.0.1",
+		"gulp-clean": "^0.4.0",
+		"gulp-imagemin": "^4.1.0",
+		"gulp-nodemon": "^2.2.1",
+		"gulp-open": "^3.0.1",
+		"gulp-rollup": "^2.16.2",
+		"gulp-sass": "^4.0.0",
+		"gulp-sequence": "^1.0.0",
+		"gulp-uglify": "^3.0.0"
+	},
+	"dependencies": {
+		"dotenv": "^5.0.1",
+		"ejs": "^2.6.1",
+		"request": "^2.87.0",
+		"xml2js": "^0.4.19"
+	}
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Boegle",
+  "short_name": "Boegle",
+  "description": null,
+  "dir": "auto",
+  "lang": "nl-NL",
+  "display": "standalone",
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
