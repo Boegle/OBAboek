@@ -4,7 +4,7 @@
 	"version": "1.0.0",
 	"repository": {
 		"type": "git",
-		"url": "https://gitlab.com/detaiNL/detai-node-setup.git"
+		"url": "https://github.com/Boegle/OBAboek.git"
 	},
 	"license": "MIT",
 	"devDependencies": {
